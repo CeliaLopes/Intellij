@@ -3,9 +3,9 @@ package br.com.dio.model;
 import java.util.Objects;
 
 public class Gato {
-    private String nome = "Celia";
-    private String cor= "azul";
-    private String idade = "10";
+    private String nome;
+    private String cor;
+    private String idade;
 
     public Gato() {
     }
